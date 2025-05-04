@@ -5,7 +5,7 @@ I'm a passionate **Full Stack Developer** with hands-on experience building scal
 - **Frontend:** React.js, Next.js, React Native, Flutter  
 - **Backend:** Node.js, Nest.js  
 - **Database:** MongoDB  
-- **Tools & DevOps:** Firebase, GitHub, Vercel  
+- **Tools & DevOps:** Firebase, GitHub, Vercel, Xcode, Aws, Stripe, Azure 
 
 I also lead teams across multiple projects, ensuring high-quality code and timely delivery. 🚀
 
@@ -14,7 +14,7 @@ I also lead teams across multiple projects, ensuring high-quality code and timel
 ### 🌟 What I Do
 
 - 🔧 Build cross-platform apps with React Native & Flutter  
-- 🧠 Architect RESTful & GraphQL APIs using Node.js and NestJS  
+- 🧠 Architect RESTful APIs using Node.js and NestJS  
 - 📱 Create pixel-perfect UIs using Tailwind CSS  
 - 🔐 Implement user authentication and real-time databases with Firebase  
 - 🤝 Collaborate, lead, and mentor development teams
