@@ -23,13 +23,13 @@ I also lead teams across multiple projects, ensuring high-quality code and timel
 
 ### 🚀 Latest Project
 
-Check out my portfolio: [sher-ali.vercel.app](https://sher-ali.vercel.app/)
+Check out my portfolio: [dev-sher-ali.vercel.app](https://dev-sher-ali.vercel.app/)
 
 ---
 
 ### 📫 Let's Connect!
 
-- 📧 Email: sherali.dev@gmail.com  
+- 📧 Email: dev.sherali07@@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/sherali-dev](https://linkedin.com/in/sherali-dev)  
 - 🐦 Twitter: [@sherryy67](https://twitter.com/sherryy67)
 
