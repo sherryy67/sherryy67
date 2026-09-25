@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Sher Ali, full-stack engineer">
+<style>
+ .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI Variable Display','Segoe UI',Inter,Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,'Cascadia Code','JetBrains Mono',Menlo,Consolas,monospace}
+ .bar{transform-box:fill-box;transform-origin:left center;animation:g .7s cubic-bezier(.2,.7,.2,1) both}
+ .lbl{animation:f .5s ease-out both}
+ @keyframes g{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+ @keyframes f{from{opacity:0}to{opacity:1}}
+ @media (prefers-reduced-motion:reduce){.bar,.lbl{animation:none}}
+</style>
+<text x="0" y="180" class="s" font-size="76" font-weight="650" letter-spacing="-2.5" fill="#E6EDF3">Sher Ali</text>
+<text x="2" y="226" class="s" font-size="26" font-weight="500" letter-spacing="-.4" fill="#E6EDF3">Full-stack engineer</text>
+<text x="2" y="276" class="s" font-size="18" fill="#8B949E">I build web and mobile products end to end,</text>
+<text x="2" y="304" class="s" font-size="18" fill="#8B949E">from database schema to the last pixel,</text>
+<text x="2" y="332" class="s" font-size="18" fill="#8B949E">and run them on AWS.</text>
+<text x="520" y="72" class="m" font-size="15" fill="#E6EDF3">GET /dashboard</text>
+<text x="1150" y="72" class="m" font-size="15" fill="#8B949E" text-anchor="end">262 ms</text>
+<line x1="520" y1="88" x2="1150" y2="88" stroke="#30363D"/>
+<line x1="760.0" y1="98" x2="760.0" y2="394" stroke="#21262D"/>
+<text x="760.0" y="416" class="m" font-size="12" fill="#8B949E" text-anchor="middle">0</text>
+<line x1="829.6" y1="98" x2="829.6" y2="394" stroke="#21262D"/>
+<text x="829.6" y="416" class="m" font-size="12" fill="#8B949E" text-anchor="middle">50</text>
+<line x1="899.3" y1="98" x2="899.3" y2="394" stroke="#21262D"/>
+<text x="899.3" y="416" class="m" font-size="12" fill="#8B949E" text-anchor="middle">100</text>
+<line x1="968.9" y1="98" x2="968.9" y2="394" stroke="#21262D"/>
+<text x="968.9" y="416" class="m" font-size="12" fill="#8B949E" text-anchor="middle">150</text>
+<line x1="1038.6" y1="98" x2="1038.6" y2="394" stroke="#21262D"/>
+<text x="1038.6" y="416" class="m" font-size="12" fill="#8B949E" text-anchor="middle">200</text>
+<line x1="1108.2" y1="98" x2="1108.2" y2="394" stroke="#21262D"/>
+<text x="1108.2" y="416" class="m" font-size="12" fill="#8B949E" text-anchor="middle">250</text>
+<text x="520" y="124" class="m lbl" font-size="14" fill="#E6EDF3" style="animation-delay:0.15s">edge.cloudfront</text>
+<text x="520" y="139" class="s lbl" font-size="12" fill="#8B949E" style="animation-delay:0.15s">cache miss</text>
+<rect class="bar" x="760.0" y="113" width="7.0" height="14" rx="3" fill="#8B949E" style="animation-delay:0.15s"/>
+<text x="775.0" y="124" class="m lbl" font-size="12" fill="#8B949E" text-anchor="start" style="animation-delay:0.65s">5 ms</text>
+<text x="520" y="164" class="m lbl" font-size="14" fill="#E6EDF3" style="animation-delay:0.18s">next.render</text>
+<text x="520" y="179" class="s lbl" font-size="12" fill="#8B949E" style="animation-delay:0.18s">server components</text>
+<rect class="bar" x="767.0" y="153" width="54.3" height="14" rx="3" fill="#A5A0FF" style="animation-delay:0.18s"/>
+<text x="829.3" y="164" class="m lbl" font-size="12" fill="#8B949E" text-anchor="start" style="animation-delay:0.68s">39 ms</text>
+<path d="M526 178 V199 H533" fill="none" stroke="#30363D"/>
+<text x="536" y="204" class="m lbl" font-size="14" fill="#E6EDF3" style="animation-delay:0.22s">api.nestjs</text>
+<text x="536" y="219" class="s lbl" font-size="12" fill="#8B949E" style="animation-delay:0.22s">GET /orders</text>
+<rect class="bar" x="776.7" y="193" width="55.7" height="14" rx="3" fill="#58A6FF" style="animation-delay:0.22s"/>
+<text x="840.4" y="204" class="m lbl" font-size="12" fill="#8B949E" text-anchor="start" style="animation-delay:0.72s">40 ms</text>
+<path d="M542 218 V239 H549" fill="none" stroke="#30363D"/>
+<text x="552" y="244" class="m lbl" font-size="14" fill="#E6EDF3" style="animation-delay:0.23s">redis.get</text>
+<text x="552" y="259" class="s lbl" font-size="12" fill="#8B949E" style="animation-delay:0.23s">session</text>
+<rect class="bar" x="779.5" y="233" width="3.0" height="14" rx="3" fill="#3DC2D1" style="animation-delay:0.23s"/>
+<text x="790.5" y="244" class="m lbl" font-size="12" fill="#8B949E" text-anchor="start" style="animation-delay:0.73s">1 ms</text>
+<path d="M542 258 V279 H549" fill="none" stroke="#30363D"/>
+<text x="552" y="284" class="m lbl" font-size="14" fill="#E6EDF3" style="animation-delay:0.25s">postgres.query</text>
+<text x="552" y="299" class="s lbl" font-size="12" fill="#8B949E" style="animation-delay:0.25s">orders by user</text>
+<rect class="bar" x="783.7" y="273" width="33.4" height="14" rx="3" fill="#3DC2D1" style="animation-delay:0.25s"/>
+<text x="825.1" y="284" class="m lbl" font-size="12" fill="#8B949E" text-anchor="start" style="animation-delay:0.75s">24 ms</text>
+<path d="M542 298 V319 H549" fill="none" stroke="#30363D"/>
+<text x="552" y="324" class="m lbl" font-size="14" fill="#E6EDF3" style="animation-delay:0.40s">sqs.publish</text>
+<text x="552" y="339" class="s lbl" font-size="12" fill="#8B949E" style="animation-delay:0.40s">order.viewed</text>
+<rect class="bar" x="819.9" y="313" width="5.6" height="14" rx="3" fill="#56D39B" style="animation-delay:0.40s"/>
+<text x="833.5" y="324" class="m lbl" font-size="12" fill="#8B949E" text-anchor="start" style="animation-delay:0.90s">4 ms</text>
+<path d="M526 338 V359 H533" fill="none" stroke="#30363D"/>
+<text x="536" y="364" class="m lbl" font-size="14" fill="#E6EDF3" style="animation-delay:0.46s">ai.stream</text>
+<text x="536" y="379" class="s lbl" font-size="12" fill="#8B949E" style="animation-delay:0.46s">order summary</text>
+<rect class="bar" x="835.2" y="353" width="289.7" height="14" rx="3" fill="#F0B541" style="animation-delay:0.46s"/>
+<text x="1116.9" y="364" class="m lbl" font-size="12" fill="#1F2328" text-anchor="end" style="animation-delay:0.96s">208 ms</text>
+</svg>
